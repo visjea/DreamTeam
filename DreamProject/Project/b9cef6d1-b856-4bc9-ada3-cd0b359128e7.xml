@@ -3,4 +3,5 @@ _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 ++D=BOOL	N=entrée	G=VAR
 ++D=BOOL	N=sortie	G=VAR
+++D=BOOL	N=Top_Horloge	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
