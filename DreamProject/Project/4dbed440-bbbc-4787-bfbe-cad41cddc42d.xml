@@ -1,7 +1,6 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
-++D=BOOL	N=entrée	G=VAR
-++D=BOOL	N=sortie	G=VAR
-++D=BOOL	N=Top_Horloge	G=VAR
+++D=BOOL	N=DCY	G=VAR
+++D=BOOL	N=Start	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
