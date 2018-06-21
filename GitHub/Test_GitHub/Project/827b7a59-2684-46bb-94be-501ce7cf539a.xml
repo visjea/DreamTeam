@@ -1,4 +1,8 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
+++D=BOOL	N=Start	G=VAR
+++D=BOOL	N=Running	G=VAR
+++D=BOOL	N=Option1	G=VAR
+++D=BOOL	N=Pause	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
