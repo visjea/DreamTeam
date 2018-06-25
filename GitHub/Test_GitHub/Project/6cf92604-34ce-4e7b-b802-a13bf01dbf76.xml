@@ -1,2 +1,3 @@
 ﻿{"CLs":[{"__type":"LD","Var":"Start"},{"__type":"ST","Ix":1,"Var":"Running","X":1}],"LRI":2,"RRI":3,"VLs":[]}
 {"CLs":[{"__type":"LD","Var":"Option1"},{"__type":"ST","Ix":1,"Var":"Pause","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"IST","EID":"fbf95863-896c-4102-8d7c-062424318daa","H":130,"TXT":"Login:='visjea';\u000d\u000aPW:='GITexperience2018';","W":400}],"LRI":1,"RRI":2,"VLs":[]}

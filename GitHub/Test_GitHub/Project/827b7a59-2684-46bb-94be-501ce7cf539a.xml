@@ -1,6 +1,8 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
+++D=STRING[25]	N=login	G=VAR
+++D=STRING[25]	N=PW	G=VAR
 ++D=BOOL	N=Start	G=VAR
 ++D=BOOL	N=Running	G=VAR
 ++D=BOOL	N=Option1	G=VAR

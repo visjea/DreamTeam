@@ -186,7 +186,7 @@
                         <AccessInfos />
                         <ChildEntities />
                       </Entity>
-                      <Entity type="Variables" subtype="Ladder" id="827b7a59-2684-46bb-94be-501ce7cf539a" name="Variables" version="0" dateCreated="06/07/2018 13:54:31" dateLastModified="06/07/2018 14:10:25" trackingId="db008969-6480-43c8-9b98-d571aced53bc" hash="066fba3a43638b8fc16833e7b3438db3">
+                      <Entity type="Variables" subtype="Ladder" id="827b7a59-2684-46bb-94be-501ce7cf539a" name="Variables" version="0" dateCreated="06/07/2018 13:54:31" dateLastModified="06/21/2018 15:12:53" trackingId="db008969-6480-43c8-9b98-d571aced53bc" hash="a551b7b4e69994f4ec7f8e6da7daaf3f">
                         <AccessInfos />
                         <ChildEntities>
                           <Entity type="SourceHolder" subtype="" id="f7e184d4-771b-4989-8e39-41fd4054ed4c" name="Source" version="0" dateCreated="06/07/2018 13:54:31" trackingId="d17e8a8f-240a-4107-9897-21bf19d5f671">
@@ -195,7 +195,7 @@
                           </Entity>
                         </ChildEntities>
                       </Entity>
-                      <Entity type="PouBody" subtype="Ladder" id="6cf92604-34ce-4e7b-b802-a13bf01dbf76" name="Section0" version="0" dateCreated="06/07/2018 13:54:31" dateLastModified="06/07/2018 14:10:25" trackingId="225e5506-6df2-420e-a963-f1fc9a91bd18" DN="Section0" hash="4bf32a01af764b3cb310677639555138">
+                      <Entity type="PouBody" subtype="Ladder" id="6cf92604-34ce-4e7b-b802-a13bf01dbf76" name="Section0" version="0" dateCreated="06/07/2018 13:54:31" dateLastModified="06/21/2018 15:12:53" trackingId="225e5506-6df2-420e-a963-f1fc9a91bd18" DN="Section0" hash="13afade87279ab601951651811e72074">
                         <AccessInfos />
                         <ChildEntities>
                           <Entity type="SourceHolder" subtype="" id="a95593ec-1342-4948-b893-a67bbf27aa1d" name="Source" version="0" dateCreated="06/07/2018 13:54:31" trackingId="a71c9231-5991-426e-987a-c1515f7ba1d1">
@@ -203,6 +203,10 @@
                             <ChildEntities />
                           </Entity>
                           <Entity type="PouBodySourceHolder" subtype="" id="84f1e4fe-ca1a-44d1-8a51-8a534e44b252" name="PouBodySourceHolder" version="0" dateCreated="06/07/2018 13:54:31" trackingId="b0773d29-da40-4191-b024-2c1108f4219b">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                          <Entity type="Inline" subtype="StructuredText" id="37dc4d7a-3e1a-4f98-8cbd-9cc91c869ab2" name="fbf95863-896c-4102-8d7c-062424318daa" version="0" dateCreated="06/21/2018 15:11:39" dateLastModified="06/21/2018 15:12:53" trackingId="fbf95863-896c-4102-8d7c-062424318daa">
                             <AccessInfos />
                             <ChildEntities />
                           </Entity>
