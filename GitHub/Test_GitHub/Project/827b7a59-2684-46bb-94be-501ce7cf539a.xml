@@ -7,4 +7,5 @@ _EN=Variables
 ++D=BOOL	N=Running	G=VAR
 ++D=BOOL	N=Option1	G=VAR
 ++D=BOOL	N=Pause	G=VAR
+++D=BOOL	N=Option2	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
